@@ -6,6 +6,7 @@
   "main": "bundles/angular2-markdown.umd.js",
   "module": "index.js",
   "typings": "index.d.ts",
+  "preinstall":"npm run prepublish",
   "keywords": [
     "ng",
     "angular",
